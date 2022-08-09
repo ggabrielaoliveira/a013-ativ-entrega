@@ -3,7 +3,7 @@ const num = Number(prompt("Insira um numero aqui"));
 if(num%2==0){
     console.log("Numero divisivel por 2")
         if(num%3==0){
-            console.log("Numero divisivel por 3")  
+            console.log("Numero divisivel por 3")
         }else{
             console.log("numero não é divisivel por 3")
         }
