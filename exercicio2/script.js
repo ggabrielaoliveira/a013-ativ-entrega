@@ -1,9 +1,9 @@
 let nacionalidade= prompt("Escreva sua nacionalidade aqui!").toLowerCase();
 //
 switch(nacionalidade){
-    case "brasileira":
+    case "brasileira"://usar "brasileiro","brasileira"
     case "brasileiro":
-        console.log("Você nasceu no Brasil")
+        console.log("Você nasceu no Brasil")//PODE USAR O ALERT NO LUGAR DO CONSOLE.LOG
         break;
     case "argentina":
     case "argentino":
